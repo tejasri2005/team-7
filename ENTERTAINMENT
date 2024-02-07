@@ -1,0 +1,16 @@
+<html>
+    <body style="background-image:c:\Users\admin\Pictures\hh.webp">
+       <center><h1>ABOUT THE ENTERTAINMENT</h1></center>
+    <center><img src="https://www.shutterstock.com/image-photo/crowd-partying-stage-lights-live-260nw-2297236461.jpg" width="400"></center>
+       <h2>ENTERTAINMENT IMAGES</h2>
+       <a href="https://media.gettyimages.com/id/466103921/vector/entertainment-and-culture-icon-set.jpg?s=612x612&w=gi&k=20&c=GAupDMtu0e_IlSnpTgmQR6rRIC2I0mQhOC-rymq7Oag=">IMAGE</a>
+       <h3>ENTERTAINMENT VIDEOS</h3>
+       <a href="https://www.youtube.com/watch?v=dIy5kuaRe8g">VIDEO</a>
+       <h4>ENTERTAINMENT AUDIOS</h4>
+       <a href="https://youtu.be/xCIrlKvzE3g">AUDIO</a>
+       <h5>IMAGE AVATAR</h5>
+       <img src="https://png.pngtree.com/element_pic/17/09/18/eaaa7c9fd4ce780349e072ad967b8779.jpg" width="100">
+       <h6>ICON</h6>
+       <img src="https://uxwing.com/wp-content/themes/uxwing/download/hand-gestures/good-icon.png" width="50">
+    </body>
+</html>
