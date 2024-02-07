@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <center>
+            <h1>
+        ELECTRONIC DEVICES LISTS
+    </h1>
+        </center>
+    </head>
+    <body>
+        <h2>ORDERED LISTS</h2>
+        <ol>
+            <h4>
+            <li>refrigerator</li>
+            <li>teivision</li>
+            <li>microwaves</li>
+            <li>water heaters</li>
+            <li>laptop</li>
+            <li>freezers</li>
+            <li>microoven</li>
+            <li>washing machine</li>
+        </h4>
+        </ol>
+        <br>
+        <br>
+        <h2>UNORDERED LISTS</h2>
+        <ul>
+            <h4>
+            <li>mobiles</li>
+            <li>iron box</li>
+            <li>mixers</li>
+            <li>fans</li>
+            <li>lights</li>
+            <li>vaccum cleaners</li>
+        </h4>
+        </ul>
+        
+
+
+    </body>
+</html>
