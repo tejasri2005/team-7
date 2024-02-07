@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <center>
+            <h1>
+                    TABLE WITH FRIENDS DETAILS
+            </h1>
+        </center>
+    </head>
+    <!DOCTYPE html>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+<table style="width:100%">
+  <tr>
+    <th>S.NO</th>
+    <th>REG.NO</th>
+    <th>NAME</th>
+    <th>ADDRESS</th>
+    <th>PHONE.NO</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>22K61A1241</td>
+    <td>harika</td>
+    <td>etukulagudem</td>
+    <td>917378137</td>
+  </tr>
+  <tr>
+  <td>2</td>
+  <td>22K61A1219</td>
+  <td>tejasri</td>
+  <td>tpg</td>
+  <td>992738738</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>22K61A1221</td>
+    <td>hema</td>
+    <td>tanuku</td>
+    <td>982837433</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>22K61A1220</td>
+        <td>deepu</td>
+        <td>nedavole</td>
+        <td>872382834</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>22K61A1250</td>
+            <td>sravani</td>
+            <td>tanuku</td>
+            <td>364873628</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>22K61A1270</td>
+                <td>ramya</td>
+                <td>tpg</td>
+                <td>736478687</td>
+                </tr>
+            <tr>
+                <td>7</td>
+                 <td>22K61A1271</td>
+                 <td>sravanthi</td>
+                 <td>vizag</td>
+                <td>874358347</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>22K61A1272</td>
+                <td>sruthi</td>
+                <td>vizag</td>
+                <td>837929798</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>22K61A1249</td>
+                    <td>rramya</td>
+                    <td>goa</td>
+                    <td>739273988</td>
+                    </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+
+</html>
