@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+        }
+        td{
+            padding-left: 40px;
+        }
+        </style>
+    <head>
+        <center>
+            <h1>
+                <span style="color:pink"> TIME </span>
+                <span style="color:purple"> TABLE  </span>
+            </h1>
+        </center>
+        <body>
+            <table style="width:100%">
+                <tr>
+                    <th rowspan="2">PERIOD<br>
+                        DAY
+                    </th>
+                    <th>1</th>
+                    <th>2</th>
+                    <th rowspan="2">10:50-11:00</th>
+                    <th>3</th>
+                    <th>4</th>
+                    <th rowspan="2">12:50-1:45</th>
+                    <th>5</th>
+                    <th>6</th>
+                    <th>7</th>
+                </tr>
+                <tr>
+                    <td>9:00-9:55</td>
+                    <td>9:55-10:50</td>
+                    <td>11:00-11:55</td>
+                    <td>11:55-12:50</td>
+                    <td>1:45-2:40</td>
+                    <td>2:40-3:35</td>
+                    <td>3:35-4:30</td>
+                </tr>
+                <tr>
+                    <th>MONDAY</th>
+                    <td>OS</td>
+                    <td>DAA</td>
+                    <td rowspan="2">B<br>
+                        R <br>
+                        E<br>
+                    </td>
+                    <td>DM</td>
+                    <td>EEFM</td>
+                    <td rowspan="6">  L<br>
+                        U<br>
+                        N<br>
+                        C<br>
+                        H<br></td>
+                    <td colspan="3"> OS-LAB 14204</td>
+                </tr>
+                <tr>
+                    <th>TUESDAY</th>
+                    <td>EEFM</td>
+                    <td>SE</td>
+                    <td>DAA</td>
+                    <td>DM</td>
+                    <td colspan="3"> SE-LAB 14204</td>
+                </tr>
+                <tr>
+                    <th>WEDNESDAY</th>
+                    <td>OS</td>
+                    <td colspan="4">MST-LAB 14264</td>
+                    <td colspan="3"> DAA-LAB 14204</td>
+                </tr>
+                <tr>
+                    <th>THRUSDAY</th>
+                    <td colspan="5">CDC-I 14204</td>
+                    <td>DAA</td>
+                    <td>OS</td>
+                    <td>SE</td>
+                </tr>
+                <tr>
+                    <th>FRIDAY</th>
+                    <td colspan="5">CDC-II 14204</td>
+                    <td>DAA</td>
+                    <td>SE</td>
+                    <td>EEFM</td>
+                </tr>
+                <tr>
+                    <th>SATURDAY</th>
+                    <td>DM</td>
+                    <td>SE</td>
+                    <td>E<br>
+                    K</td>
+                    <td colspan="2">SOFTSKILLS</td>
+                    <td>EEFM</td>
+                    <td>OS</td>
+                    <td>DM</td>
+                </tr>
+
+            </table>
+
+        </body>
+    </head>
